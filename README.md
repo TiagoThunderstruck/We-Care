@@ -5,8 +5,8 @@
   <li>HTML; </li>
   <li>CSS; </li>
 </ul>
-<img src="https://github.com/TiagoThunderstruck/Easy-Shopping/blob/main/Assets/Mockup_shopping.png?raw=true" />
+<img src="https://github.com/TiagoThunderstruck/We-Care/blob/master/Assets/mockup_We-Care_desktop.png?raw=true" alt="desktop" />
 <br>
 <h3>Projeto "RESPONSIVO": </h3>
-<img src="https://github.com/TiagoThunderstruck/Easy-Shopping/blob/main/Assets/Mockup_shopping-responsivo.png?raw=true" />
+<img src="https://github.com/TiagoThunderstruck/We-Care/blob/master/Assets/mockup_We-Care_mobile.png?raw=true" alt="mobile" />
 <br><br>
